@@ -1,6 +1,6 @@
 # Frontend
 
-> A Vue.js & Spring Boot example project
+> Vuetify & Spring Boot example project
 
 ## Project setup
 ```
